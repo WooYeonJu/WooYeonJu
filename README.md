@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Skills
-<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=springboot&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=springboot&logoColor=#FFFFFF"/></a>
 
 
 
