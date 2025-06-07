@@ -1,14 +1,19 @@
 # 👋 Hi, I'm YeonJu
 
 ## 🛠️ Teck Stack
-<img src="https://img.shields.io/badge/Java-5382A1?style=flat-squar"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-5382A1?style=flat-squar"/></a> 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a> 
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=FFFFFF"/></a> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/></a>
+</p>
 
 ## 📈 Github Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical&count_private=true&hide=stars,issues" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact&theme=radical&langs_count=6" height="180px"/>
-</div>
+</p>
 
 
 ## 📫 Contect
