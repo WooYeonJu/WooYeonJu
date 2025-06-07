@@ -1,4 +1,4 @@
-| 👋 Hi, I'm YeonJu
+` 👋 Hi, I'm YeonJu `
 
 ## 🛠️ Teck Stack
 <p>
