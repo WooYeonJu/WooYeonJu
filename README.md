@@ -1,6 +1,4 @@
-<p align="center">
-  <strong style="font-size: 70px;">👋 Hi, I'm <span style="color:#f66;">YeonJu</span></strong>
-</p>
+<p align="center" style="font-size: 70px;">👋 Hi, I'm YeonJu </p>
 
 ## 🛠️ Teck Stack
 <p>
