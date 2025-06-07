@@ -8,8 +8,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/></a>
 </p>
 
-## 📈 Github Stats
+## 🎖️ Coding Achievements
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/rosie24/)
 
+## 📈 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact&theme=radical&langs_count=6" height="180px"/>
