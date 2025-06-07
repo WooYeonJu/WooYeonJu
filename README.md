@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 70px;">👋 Hi, I'm YeonJu </p>
+<h1 align="center">👋 Hi, I'm YeonJu </p>
 
 ## 🛠️ Teck Stack
 <p>
