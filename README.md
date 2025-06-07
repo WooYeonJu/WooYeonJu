@@ -3,10 +3,8 @@
 ## Skills
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
 
-## Github Status
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical)
+## Github Stats
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=transparent)
 
 
 ---
