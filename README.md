@@ -1,11 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm YeonJu
 
-## Skills
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
+## 🛠️ Teck Stack
+<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-squar"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/></a>
 
 ## Github Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical) ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact)
-
 
 ---
 > 📫 contect: woojja07@naver.com
