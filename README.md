@@ -1,7 +1,5 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#f66;">YeonJu</span></h1>
 <p align="center">
-  백엔드 개발자를 꿈꾸는 주니어 개발자입니다.<br>
-  끊임없이 배우고, 꾸준히 성장하고 있습니다. ☕
+  <strong style="font-size: 32px;">👋 Hi, I'm <span style="color:#f66;">YeonJu</span></strong>
 </p>
 
 ## 🛠️ Teck Stack
