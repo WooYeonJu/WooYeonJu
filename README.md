@@ -7,7 +7,7 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical) ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact)
 
 ## 📫 Contect
-> email: woojja07@naver.com
+> email: woojja07@naver.com <br>
 > blog: https://velog.io/@rosie24/posts
 
 <!--
