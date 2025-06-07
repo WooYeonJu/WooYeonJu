@@ -11,10 +11,9 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical&count_private=true&hide=stars,issues" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WooYeonJu&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooYeonJu&layout=compact&theme=radical&langs_count=6" height="180px"/>
 </p>
-
 
 ## 📫 Contect
 > email: woojja07@naver.com <br>
