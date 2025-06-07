@@ -1,6 +1,9 @@
 ## Hi there 👋
+---
 
-<img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+## Skills
+---
+<img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=springboot&logoColor=#6DB33F"/></a>
 
 <!--
 **WooYeonJu/WooYeonJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
