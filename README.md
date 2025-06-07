@@ -9,7 +9,7 @@
 </p>
 
 ## 🎖️ Coding Achievements
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/rosie24/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rosie24)](https://solved.ac/rosie24/)
 
 ## 📈 Github Stats
 <p align="center">
